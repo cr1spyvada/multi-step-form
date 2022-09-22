@@ -144,7 +144,7 @@ const Form = () => {
   };
 
   const submitHandler = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
     window.alert("saved");
   };
 
