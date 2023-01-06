@@ -20,7 +20,7 @@ const Form = () => {
         required: true,
         type: "input",
         subtitle: "Last name",
-        placeholder: "Smith",
+        placeholder: "Adam",
       },
       email: {
         value: "",
